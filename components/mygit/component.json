@@ -1,0 +1,9 @@
+{
+    "name": "mygit",
+    "description": "HelloWorld",
+    "repos": "https://github.com/zdkGitHub/mygit.git",
+    "main": "index.js",
+    "tag": "master",
+    "version": "0.0.1",
+    "dependencies": {}
+}
